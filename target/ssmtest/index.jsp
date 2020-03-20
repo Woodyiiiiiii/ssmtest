@@ -17,7 +17,7 @@
     <h3>保存测试</h3>
     <form action="account/save" method="post">
         name:<input type="text" name="name">
-        password:<input type="password" name="password"/>
+        money:<input type="text" name="money"/>
         <input type="submit" name="submit"/>
     </form>
 
